@@ -4,7 +4,7 @@
 <h1 align="center">Shay Rahamim — DevSecOps & Systems</h1>
 <p align="center">
   <a href="https://shaysystems.com">shaysystems.com</a> ·
-  <a href="https://profile.shaysystems.com">profile.shaysystems.com</a> ·
+  <a href="https://profile.shaysystems.com">profile.shaysystems.com</a>
 </p>
 
 <p align="center">
