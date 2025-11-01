@@ -5,7 +5,6 @@
 <p align="center">
   <a href="https://shaysystems.com">shaysystems.com</a> ·
   <a href="https://profile.shaysystems.com">profile.shaysystems.com</a> ·
-  <a href="https://github.com/shayrh">github.com/shayrh</a>
 </p>
 
 <p align="center">
