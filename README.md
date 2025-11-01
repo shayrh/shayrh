@@ -73,7 +73,7 @@
 ### 📫 Contact / Links
 - Website: https://shaysystems.com  
 - Profile:  https://profile.shaysystems.com  
-- GitHub:   https://github.com/shayrh
+
 
 ---
 
