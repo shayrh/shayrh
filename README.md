@@ -1,5 +1,5 @@
 <!-- README.md for GitHub profile: github.com/shayrh/shayrh -->
-<!-- All content is static, no placeholders. Edit as you like. -->
+<!-- Full visual edition with snake, stats, activity graph, and skyline -->
 
 <h1 align="center">Shay Rahamim — DevSecOps & Systems</h1>
 <p align="center">
@@ -25,43 +25,60 @@
 ---
 
 ### 👋 About
-- DevSecOps & System Admin focusing on containers, CI/CD, and secure infrastructure.
-- Building hands-on labs, utilities and demos under the **Shay Systems** brand.
-- Interests: Kubernetes, Docker, Jenkins pipelines, Flask APIs, Infra automation.
+- DevSecOps & System Admin focusing on containers, CI/CD, and secure infrastructure.  
+- Building hands-on labs, utilities, and demos under the **Shay Systems** brand.  
+- Interests: Kubernetes, Docker, Jenkins pipelines, Flask APIs, Infra automation.  
 
 ---
 
 ### 📊 GitHub Stats
-<!-- Stats images are dynamic and require no secrets; username hardcoded to shayrh -->
 <p align="center">
   <img height="165" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=shayrh&show_icons=true&rank_icon=github&include_all_commits=true&theme=transparent" />
   <img height="165" alt="Streak" src="https://streak-stats.demolab.com?user=shayrh&theme=transparent" />
 </p>
-
 <p align="center">
   <img height="165" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayrh&layout=compact&langs_count=10&hide=php&theme=transparent" />
 </p>
 
 ---
 
-### 🧰 Tech Stack (selection)
-- **Containers & Orchestration:** Docker, Docker Compose, Kubernetes, Traefik, Helm  
-- **CI/CD & Automation:** Jenkins, GitHub Actions, Bash, PowerShell, Make  
+### 🧮 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shayrh&theme=github-compact&bg_color=ffffff00&color=00cc99&line=00cc99&point=009966" alt="Activity Graph" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/shayrh/shayrh/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+### 🌈 Skyline (3D Contribution City)
+<p align="center">
+  🏙️ <a href="https://skyline.github.com/shayrh">View my 3D Skyline</a>
+</p>
+
+---
+
+### 🧰 Tech Stack
+- **Containers & Orchestration:** Docker, Kubernetes, Traefik, Helm  
+- **CI/CD & Automation:** Jenkins, GitHub Actions, Bash, PowerShell  
 - **Backend & APIs:** Python, Flask, FastAPI, JWT, SQLAlchemy  
-- **Databases & Messaging:** MySQL, SQLite, Redis  
-- **Cloud & Ops:** Linux (Ubuntu), Nginx, TLS, Monitoring basics
+- **Databases:** MySQL, SQLite, Redis  
+- **Cloud & Ops:** Linux, Nginx, TLS, Monitoring  
 
 ---
 
 ### 🚀 Featured Projects
 - **Car Recognition Toolkit** — YOLOv8 utilities, GUI, and media workflows  
-  Repo: https://github.com/shayrh/car-recognision
+  Repo: https://github.com/shayrh/car-recognision  
+- **DevOps Labs & Snippets** — CI/CD, Docker, and Kubernetes demos  
+  Repo: https://github.com/shayrh  
 
-- **DevOps Labs & Snippets** — Scripts and examples for CI/CD, Docker, k8s  
-  Repo: https://github.com/shayrh (browse pins & recent activity)
-
-<!-- Optional visual pin cards (kept minimal, safe if repo exists) -->
-<p>
+<p align="center">
   <a href="https://github.com/shayrh/car-recognision">
     <img alt="car-recognision card" src="https://github-readme-stats.vercel.app/api/pin/?username=shayrh&repo=car-recognision&theme=transparent" />
   </a>
@@ -69,15 +86,10 @@
 
 ---
 
-### 📫 Contact / Links
-- Website: https://shaysystems.com  
-- Profile:  https://profile.shaysystems.com  
-
+### 📫 Contact
+- 🌐 [shaysystems.com](https://shaysystems.com)  
+- 💼 [profile.shaysystems.com](https://profile.shaysystems.com)  
 
 ---
 
-<!-- Notes to self (not rendered on profile):
-- To activate this profile page, create a public repo named exactly 'shayrh' with this README.md at the root.
-- Pinned repos are managed in GitHub → Profile → Customize your pins.
-- All badges are static, safe, and require no tokens.
--->
+<!-- Profile README auto-renders these visuals when committed -->
