@@ -1,5 +1,5 @@
 <!-- README.md for GitHub profile: github.com/shayrh/shayrh -->
-<!-- Only snake animation version -->
+<!-- All content is static, no placeholders. Edit as you like. -->
 
 <h1 align="center">Shay Rahamim — DevSecOps & Systems</h1>
 <p align="center">
@@ -24,6 +24,26 @@
 
 ---
 
+### 👋 About
+- DevSecOps & System Admin focusing on containers, CI/CD, and secure infrastructure.
+- Building hands-on labs, utilities and demos under the **Shay Systems** brand.
+- Interests: Kubernetes, Docker, Jenkins pipelines, Flask APIs, Infra automation.
+
+---
+
+### 📊 GitHub Stats
+<!-- Stats images are dynamic and require no secrets; username hardcoded to shayrh -->
+<p align="center">
+  <img height="165" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=shayrh&show_icons=true&rank_icon=github&include_all_commits=true&theme=transparent" />
+  <img height="165" alt="Streak" src="https://streak-stats.demolab.com?user=shayrh&theme=transparent" />
+</p>
+
+<p align="center">
+  <img height="165" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayrh&layout=compact&langs_count=10&hide=php&theme=transparent" />
+</p>
+
+---
+
 ### 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/shayrh/shayrh/output/github-contribution-grid-snake.svg" alt="snake animation" />
@@ -31,6 +51,38 @@
 
 ---
 
-### 📫 Contact
-- 🌐 [shaysystems.com](https://shaysystems.com)  
-- 💼 [profile.shaysystems.com](https://profile.shaysystems.com)
+### 🧰 Tech Stack (selection)
+- **Containers & Orchestration:** Docker, Docker Compose, Kubernetes, Traefik, Helm  
+- **CI/CD & Automation:** Jenkins, GitHub Actions, Bash, PowerShell, Make  
+- **Backend & APIs:** Python, Flask, FastAPI, JWT, SQLAlchemy  
+- **Databases & Messaging:** MySQL, SQLite, Redis  
+- **Cloud & Ops:** Linux (Ubuntu), Nginx, TLS, Monitoring basics
+
+---
+
+### 🚀 Featured Projects
+- **Car Recognition Toolkit** — YOLOv8 utilities, GUI, and media workflows  
+  Repo: https://github.com/shayrh/car-recognision
+
+- **DevOps Labs & Snippets** — Scripts and examples for CI/CD, Docker, k8s  
+  Repo: https://github.com/shayrh (browse pins & recent activity)
+
+<p>
+  <a href="https://github.com/shayrh/car-recognision">
+    <img alt="car-recognision card" src="https://github-readme-stats.vercel.app/api/pin/?username=shayrh&repo=car-recognision&theme=transparent" />
+  </a>
+</p>
+
+---
+
+### 📫 Contact / Links
+- Website: https://shaysystems.com  
+- Profile:  https://profile.shaysystems.com
+
+---
+
+<!-- Notes to self (not rendered on profile):
+- To activate this profile page, create a public repo named exactly 'shayrh' with this README.md at the root.
+- Pinned repos are managed in GitHub → Profile → Customize your pins.
+- All badges are static, safe, and require no tokens.
+-->
