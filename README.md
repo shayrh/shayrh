@@ -2,10 +2,6 @@
 <!-- All content is static, no placeholders. Edit as you like. -->
 
 <h1 align="center">Shay Rahamim — DevSecOps & Systems</h1>
-<p align="center">
-  <a href="https://shaysystems.com">shaysystems.com</a> ·
-  <a href="https://profile.shaysystems.com">profile.shaysystems.com</a>
-</p>
 
 <p align="center">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
@@ -44,10 +40,7 @@
 
 ---
 
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shayrh/shayrh/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+
 
 ---
 
@@ -80,6 +73,10 @@
 - Profile:  https://profile.shaysystems.com
 
 ---
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shayrh/shayrh/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
 <!-- Notes to self (not rendered on profile):
 - To activate this profile page, create a public repo named exactly 'shayrh' with this README.md at the root.
