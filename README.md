@@ -31,7 +31,7 @@
 <!-- Stats images are dynamic and require no secrets; username hardcoded to shayrh -->
 <p align="center">
   <img height="165" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=shayrh&show_icons=true&rank_icon=github&include_all_commits=true&theme=transparent" />
-  <img height="165" alt="Streak" src="https://streak-stats.demolab.com?user=shayrh&theme=transparent" />
+  <img height="165" alt="Streak" src="https://streak-stats.demolab.com/?user=shayrh&theme=transparent" />
 </p>
 
 <p align="center">
