@@ -17,6 +17,8 @@
   <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white">
   <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white">
   <img alt="Terraform" src="https://img.shields.io/badge/Terraform-2F1D58?logo=terraform&logoColor=white">
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white">
+
 
 </p>
 
